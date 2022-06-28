@@ -192,9 +192,9 @@
   dependencies:
     "@prisma/debug" "3.8.1"
 
-"@prisma/sdk@^3.9.2":
+"@prisma/sdk@3.9.2":
   version "3.9.2"
-  resolved "https://registry.npmjs.org/@prisma/sdk/-/sdk-3.9.2.tgz"
+  resolved "https://registry.yarnpkg.com/@prisma/sdk/-/sdk-3.9.2.tgz#fefbce53faf409e2be6805c5ab5f0186a2565039"
   integrity sha512-o3gs51vFX7qSYKInWBAcO99qVowTntjSySPF8JjoBViNkKKugUoVjLu2ylFlomJRFmNvZmv9K2DdS977kL5Tiw==
   dependencies:
     "@prisma/debug" "3.9.2"
